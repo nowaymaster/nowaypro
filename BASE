@@ -1,6 +1,13 @@
 Gradle
 Java (IntelliJ community edition) y Typescript (VSCode) + Slack(Google Drive + Google Calendar + Gmail)
 Google Chat FUT: Telegram, Signal ...
-###############################################
+#####
 TensorFlow
  ...
+
+------------------------------------------
+Rename the slack workspace to have the same name as the GitHub repository 
+Create a Project in GitHub under the project menu option with the same name as the GitHub repository
+ and add me as a user (with write permissions)
+The same for the Wiki: create a Wiki in GitHub under the Wiki menu option with the same name as the GitHub
+ repository and add me as a user (with write permissions)
